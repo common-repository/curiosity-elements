@@ -1,0 +1,40 @@
+.crt-imagebox {
+    position: relative;
+}
+
+.crt-imagebox .image {
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    border: 2px solid;
+}
+
+.crt-imagebox .image img {
+    width: 100%;
+    display: block;
+}
+
+.crt-imagebox .image img:hover {
+    transform: scale(1.2);
+}
+
+.crt-imagebox .name {
+    position: relative;
+    display: inline-block;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.crt-imagebox .desc {
+    margin-bottom: 30px;
+}
+
+.sidebar-left .crt-imagebox {
+	padding-right: 20px;
+}
+
+@media screen and (max-width: 768px) {
+	.sidebar-left .crt-imagebox {
+		padding-right: 0;
+	}	
+}

@@ -1,0 +1,1197 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-21 10:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: curiosity-elements.php:48
+msgid "Curiosity Lite"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/config.php:8
+msgid "Blog Normal"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/config.php:9
+msgid "Add a Blog Loop"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/config.php:10
+#: extensions/shortcodes/shortcodes/blogger-post/config.php:10
+#: extensions/shortcodes/shortcodes/post-2/config.php:10
+#: extensions/shortcodes/shortcodes/post-carousel-2/config.php:10
+msgid "Post Elements"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:31
+msgid "Info Types"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:32
+msgid "Select the info types for posts."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:34
+#: extensions/shortcodes/shortcodes/blog-1/options.php:47
+msgid "Date"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:35
+#: extensions/shortcodes/shortcodes/blog-1/options.php:50
+#: extensions/shortcodes/shortcodes/quote/options.php:7
+msgid "Author"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:36
+msgid "Categories"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:37
+msgid "Comments"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:38
+msgid "Tags"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:44
+msgid "Order By"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:48
+msgid "Modified"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:49
+msgid "ID"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:51
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:17
+#: extensions/shortcodes/shortcodes/heading/options.php:8
+#: extensions/shortcodes/shortcodes/icon-box/options.php:7
+#: extensions/shortcodes/shortcodes/image-box/options.php:28
+#: extensions/shortcodes/shortcodes/post-2/options.php:17
+msgid "Title"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:52
+msgid "Random"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:53
+msgid "Comment count"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:58
+msgid "Sort Order"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:61
+msgid "Descending"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:62
+msgid "Ascending"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:66
+msgid "Number of Posts"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:69
+msgid "Add a number or leave it blank for all posts."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:73
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:16
+msgid "Category"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:75
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:18
+msgid "Select a category or leave it blank for all posts."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:84
+msgid "Select Posts"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:88
+#: extensions/shortcodes/shortcodes/heading/options.php:62
+msgid "Off"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:92
+#: extensions/shortcodes/shortcodes/heading/options.php:66
+msgid "On"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:95
+msgid "Turn on, if You want to select the posts."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:102
+msgid "Single Posts"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/options.php:103
+msgid "Select the posts."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/views/view.php:85
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/views/view.php:91
+msgid "Written by "
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/views/view.php:94
+msgid "on "
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/views/view.php:100
+msgid "Leave a comment"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/views/view.php:101
+msgid "1 Comment"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/views/view.php:102
+msgid "% Comment"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/views/view.php:103
+msgid "Comment Closed"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blog-1/views/view.php:121
+msgid "Tags:"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/config.php:8
+msgid "Blogger Post"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/config.php:9
+#: extensions/shortcodes/shortcodes/post-2/config.php:9
+msgid "Add a Post"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:19
+#: extensions/shortcodes/shortcodes/post-2/options.php:19
+msgid "Select from the posts."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:23
+msgid "Display Image"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:27
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:48
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:77
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:91
+#: extensions/shortcodes/shortcodes/button/options.php:58
+#: extensions/shortcodes/shortcodes/column/options.php:102
+#: extensions/shortcodes/shortcodes/column/options.php:116
+#: extensions/shortcodes/shortcodes/column/options.php:130
+#: extensions/shortcodes/shortcodes/column/options.php:144
+#: extensions/shortcodes/shortcodes/column/options.php:158
+#: extensions/shortcodes/shortcodes/column/options.php:172
+#: extensions/shortcodes/shortcodes/section/options.php:34
+#: extensions/shortcodes/shortcodes/section/options.php:95
+#: extensions/shortcodes/shortcodes/section/options.php:115
+#: extensions/shortcodes/shortcodes/section/options.php:129
+#: extensions/shortcodes/shortcodes/section/options.php:143
+#: extensions/shortcodes/shortcodes/section/options.php:157
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:273
+msgid "Yes"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:31
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:52
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:81
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:95
+#: extensions/shortcodes/shortcodes/button/options.php:62
+#: extensions/shortcodes/shortcodes/column/options.php:106
+#: extensions/shortcodes/shortcodes/column/options.php:120
+#: extensions/shortcodes/shortcodes/column/options.php:134
+#: extensions/shortcodes/shortcodes/column/options.php:148
+#: extensions/shortcodes/shortcodes/column/options.php:162
+#: extensions/shortcodes/shortcodes/column/options.php:176
+#: extensions/shortcodes/shortcodes/section/options.php:38
+#: extensions/shortcodes/shortcodes/section/options.php:99
+#: extensions/shortcodes/shortcodes/section/options.php:119
+#: extensions/shortcodes/shortcodes/section/options.php:133
+#: extensions/shortcodes/shortcodes/section/options.php:147
+#: extensions/shortcodes/shortcodes/section/options.php:161
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:277
+msgid "No"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:34
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:55
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:84
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:98
+msgid "Yes or no."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:37
+msgid "Unique Image"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:38
+msgid "Upload an image or leave it blank for the default featured image."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:44
+msgid "Display Title"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:58
+msgid "Title Size"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:61
+msgid "Select the size of the title."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:73
+msgid "Title Uppercase"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:87
+msgid "Display Excerpt"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:101
+msgid "Excerpt Lenght"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:102
+msgid "Add the number of the characters."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:112
+msgid "Excerpt Font Size"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:115
+msgid "Add a font-size css or leave it blank for the default."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:118
+msgid "Excerpt Underline"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:119
+msgid "The size of the underline."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:129
+msgid "Side Border"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:130
+msgid "Side border size for the post."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:140
+msgid "Unique Color"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/blogger-post/options.php:143
+msgid "You can add unique color for the title and the borders."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/config.php:8
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:261
+msgid "Button"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/config.php:9
+msgid "Add a Button"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/config.php:10
+#: extensions/shortcodes/shortcodes/heading/config.php:10
+#: extensions/shortcodes/shortcodes/icon/config.php:10
+#: extensions/shortcodes/shortcodes/icon-box/config.php:10
+#: extensions/shortcodes/shortcodes/quote/config.php:10
+#: extensions/shortcodes/shortcodes/separator/config.php:10
+#: extensions/shortcodes/shortcodes/spacer/config.php:10
+#: extensions/shortcodes/shortcodes/subtext/config.php:10
+#: extensions/shortcodes/shortcodes/widget-area/config.php:10
+msgid "Content Elements"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:7
+msgid "Button Label"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:8
+msgid "This is the text that appears on your button."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:12
+msgid "Button Link"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:13
+msgid "Where should your button link to."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:18
+msgid "Color Type"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:19
+msgid "Select the color type."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:22
+msgid "basic"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:23
+msgid "basic 2"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:24
+msgid "black & white"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:25
+msgid "custom"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:29
+msgid "Custom Background Color"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:32
+msgid "Add a color code for custom button."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:35
+msgid "Unique Font Color"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:38
+msgid "Add a color code for the button."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:41
+#: extensions/shortcodes/shortcodes/heading/options.php:13
+#: extensions/shortcodes/shortcodes/separator/options.php:7
+msgid "Size"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:42
+msgid "Select the size."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:46
+msgid "small"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:47
+msgid "normal"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:48
+msgid "big"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:49
+msgid "bigger"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:54
+msgid "Open Link in New Window"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:55
+msgid "Select here if you want to open the linked page in a new window."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:66
+msgid "Enable Icon"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:67
+msgid "Left or right."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:71
+msgid "none"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:72
+#: extensions/shortcodes/shortcodes/column/options.php:26
+#: extensions/shortcodes/shortcodes/column/options.php:82
+#: extensions/shortcodes/shortcodes/heading/options.php:33
+#: extensions/shortcodes/shortcodes/section/options.php:50
+#: extensions/shortcodes/shortcodes/subtext/options.php:14
+msgid "right"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:73
+#: extensions/shortcodes/shortcodes/column/options.php:25
+#: extensions/shortcodes/shortcodes/column/options.php:81
+#: extensions/shortcodes/shortcodes/heading/options.php:32
+#: extensions/shortcodes/shortcodes/section/options.php:49
+#: extensions/shortcodes/shortcodes/subtext/options.php:13
+msgid "left"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:77
+#: extensions/shortcodes/shortcodes/heading/options.php:58
+#: extensions/shortcodes/shortcodes/heading/options.php:75
+#: extensions/shortcodes/shortcodes/icon/config.php:8
+#: extensions/shortcodes/shortcodes/icon/options.php:7
+#: extensions/shortcodes/shortcodes/icon-box/options.php:13
+#: extensions/shortcodes/shortcodes/separator/options.php:29
+msgid "Icon"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:80
+#: extensions/shortcodes/shortcodes/icon-box/options.php:15
+msgid "Select the icon."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:83
+msgid "Border Radius"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/button/options.php:84
+msgid "Add css code or leave it blank."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:7
+msgid "Padding left"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:10
+msgid "Padding left (px)."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:13
+msgid "Padding right"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:16
+msgid "Padding right (px)."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:20
+#: extensions/shortcodes/shortcodes/section/options.php:45
+msgid "Text Align"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:21
+#: extensions/shortcodes/shortcodes/heading/options.php:28
+#: extensions/shortcodes/shortcodes/section/options.php:46
+#: extensions/shortcodes/shortcodes/subtext/options.php:9
+msgid "Set the align."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:27
+#: extensions/shortcodes/shortcodes/column/options.php:80
+#: extensions/shortcodes/shortcodes/heading/options.php:31
+#: extensions/shortcodes/shortcodes/section/options.php:51
+#: extensions/shortcodes/shortcodes/subtext/options.php:12
+msgid "center"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:31
+#: extensions/shortcodes/shortcodes/section/options.php:66
+msgid "Background Color"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:34
+msgid "Add a background color, if You need."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:37
+#: extensions/shortcodes/shortcodes/section/options.php:14
+msgid "Background Image"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:38
+msgid "Upload an image for the background."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:42
+msgid "Background Image Size"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:53
+msgid "Background Image Repeat"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:65
+msgid "Border"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:67
+msgid "You can add border css here."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:71
+msgid "Content Max Width"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:73
+msgid ""
+"Add max-width css for the content, if You don`t want to fill the whole "
+"column."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:76
+msgid "Content Position"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:84
+msgid "The position of the content. (Only if max-width value added.)"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:88
+#: extensions/shortcodes/shortcodes/section/options.php:87
+msgid "Custom Class"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:89
+#: extensions/shortcodes/shortcodes/section/options.php:88
+msgid "Add custom class, if You need."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:92
+#: extensions/shortcodes/shortcodes/section/options.php:105
+msgid "Responsive Behaviour"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:98
+#: extensions/shortcodes/shortcodes/section/options.php:111
+msgid "Hide on Desktop"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:109
+#: extensions/shortcodes/shortcodes/section/options.php:122
+msgid "Hide if media screen is above 1199px."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:112
+#: extensions/shortcodes/shortcodes/section/options.php:125
+msgid "Hide on Smaller Screen"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:123
+#: extensions/shortcodes/shortcodes/section/options.php:136
+msgid "Hide if media screen is between 1199px and 992px."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:126
+msgid "1/1 Width on Smaller Screen"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:137
+msgid "100% width if media screen is between 1199px and 992px."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:140
+#: extensions/shortcodes/shortcodes/section/options.php:139
+msgid "Hide on Tablet"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:151
+#: extensions/shortcodes/shortcodes/section/options.php:150
+msgid "Hide if media screen is between 991px and 768px."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:154
+msgid "1/1 Width on Tablet"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:165
+msgid "100% width if media screen is between 991px and 768px."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:168
+#: extensions/shortcodes/shortcodes/section/options.php:153
+msgid "Hide on Mobile"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/column/options.php:179
+#: extensions/shortcodes/shortcodes/section/options.php:164
+msgid "Hide if media screen is under 767px."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/flexslider/config.php:8
+msgid "Flexslider"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/flexslider/config.php:9
+msgid "Add a Flexslider"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/flexslider/config.php:10
+#: extensions/shortcodes/shortcodes/image-box/config.php:10
+#: extensions/shortcodes/shortcodes/media-video/config.php:8
+msgid "Media Elements"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/flexslider/options.php:8
+msgid "Sliders"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/flexslider/options.php:9
+msgid "Add/Edit Slide"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/flexslider/options.php:10
+msgid "Create your slides"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/flexslider/options.php:15
+#: extensions/shortcodes/shortcodes/image-box/options.php:8
+#: extensions/shortcodes/shortcodes/media-video/options.php:13
+msgid "Image"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/flexslider/options.php:16
+#: extensions/shortcodes/shortcodes/image-box/options.php:9
+msgid ""
+"Either upload a new, or choose an existing image from your media library."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/config.php:8
+msgid "Heading"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/config.php:9
+msgid "Add a Heading"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:9
+#: extensions/shortcodes/shortcodes/icon-box/options.php:27
+#: extensions/shortcodes/shortcodes/image-box/options.php:29
+#: extensions/shortcodes/shortcodes/image-box/options.php:34
+#: extensions/shortcodes/shortcodes/quote/options.php:23
+#: extensions/shortcodes/shortcodes/subtext/options.php:27
+msgid "Add the content."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:14
+msgid "Select the font size."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:17
+msgid "h1"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:18
+msgid "h2"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:19
+msgid "h3"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:20
+msgid "h4"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:21
+msgid "h5"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:22
+msgid "h6"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:27
+#: extensions/shortcodes/shortcodes/subtext/options.php:8
+msgid "Align"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:38
+msgid "Font Style"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:39
+msgid "Select one from the preselected font styles."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:42
+msgid "primary"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:43
+msgid "secondary"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:47
+#: extensions/shortcodes/shortcodes/separator/options.php:17
+#: extensions/shortcodes/shortcodes/subtext/options.php:18
+msgid "Color"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:50
+#: extensions/shortcodes/shortcodes/subtext/options.php:21
+msgid "You can add specific color."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:69
+msgid "Turn on if You want to display icon next to the title."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:76
+#: extensions/shortcodes/shortcodes/icon/options.php:8
+#: extensions/shortcodes/shortcodes/separator/options.php:30
+msgid "Select an icon."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:85
+msgid "Underline"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:87
+msgid "Select the size of the bottom border."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:96
+msgid "Fullwidth Underline"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/heading/options.php:99
+msgid "Add a color code, If You want fullwidth underline."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/icon/config.php:9
+msgid "Add an Icon"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/icon-box/config.php:8
+msgid "Icon Box"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/icon-box/config.php:9
+msgid "Add an Icon Box"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/icon-box/options.php:10
+msgid "Add the title."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/icon-box/options.php:18
+#: extensions/shortcodes/shortcodes/image-box/options.php:23
+msgid "Link"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/icon-box/options.php:21
+msgid "Add a link or leave it blank."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/icon-box/options.php:24
+#: extensions/shortcodes/shortcodes/quote/options.php:22
+msgid "Content"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/image-box/config.php:8
+msgid "Image Box"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/image-box/config.php:9
+msgid "Add an Image Box"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/image-box/options.php:13
+msgid "Link type"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/image-box/options.php:14
+msgid "Select the link type."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/image-box/options.php:17
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:52
+#: extensions/shortcodes/shortcodes/separator/options.php:12
+msgid "Normal"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/image-box/options.php:18
+msgid "Lightbox"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/image-box/options.php:24
+msgid "Link for the image."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/image-box/options.php:33
+msgid "Description"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/media-video/config.php:6
+msgid "Video"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/media-video/config.php:7
+msgid "Add a Video"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/media-video/options.php:8
+msgid "Insert Video URL"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/media-video/options.php:9
+msgid "Insert Video URL to embed this video. (Vimeo or Youtube)"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/media-video/options.php:14
+msgid "Add a cover image or leave it blank."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/media-video/options.php:18
+msgid "Custom Border"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/media-video/options.php:19
+msgid "Add style or leave it blank."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-2/config.php:8
+msgid "Simple Post"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-2/views/view.php:21
+#: extensions/shortcodes/shortcodes/post-carousel-2/views/view.php:36
+msgid ", "
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-carousel-2/config.php:8
+msgid "Simple Post Carousel"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-carousel-2/config.php:9
+msgid "Add a Post Carousel"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:22
+msgid "Columns"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:23
+msgid "Number of columns on big screens."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:34
+msgid "Delay"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:35
+msgid "The delay for autoplay in sec. (default: false)"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:39
+msgid "Pagination"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:43
+msgid "True"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:44
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:55
+msgid "False"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:48
+msgid "Navigation"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:53
+msgid "Normal 2"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/post-carousel-2/options.php:54
+msgid "Big"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/quote/config.php:8
+msgid "Quote"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/quote/config.php:9
+msgid "Add a Quote"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/quote/options.php:8
+msgid "Add the author."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/quote/options.php:12
+msgid "Style"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/quote/options.php:13
+msgid "Select one from the styles."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/quote/options.php:17
+msgid "1"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/quote/options.php:18
+msgid "2"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/config.php:7
+msgid "Layout Elements"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/config.php:8
+msgid "Section"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/config.php:9
+msgid "Add a Section"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:7
+msgid "Padding"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:10
+msgid "Add the size of the padding at the bottom and the top. (px)"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:15
+msgid "Add the link of Your image."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:19
+msgid "Image Position"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:20
+msgid "The position of the image."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:23
+msgid "Background"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:24
+msgid "Pattern"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:25
+msgid "Left"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:26
+msgid "Right"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:30
+msgid "Parallax"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:41
+msgid "Set if You want parallax image."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:55
+msgid "Layer Opacity"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:58
+msgid "Add a number for the layer opacity (0-99)."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:61
+msgid "Layer Color"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:62
+#: extensions/shortcodes/shortcodes/section/options.php:72
+msgid "Select the color"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:67
+msgid "Select the background color"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:71
+msgid "Font Color"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:77
+msgid "Border Top"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:78
+#: extensions/shortcodes/shortcodes/section/options.php:83
+msgid "Add custom css for border."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:82
+msgid "Border Bottom"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:91
+msgid "Container"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/section/options.php:102
+msgid "If You don`t need container for the content, switch it off."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/separator/config.php:8
+msgid "Separator"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/separator/config.php:9
+msgid "Add a Separator"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/separator/options.php:8
+msgid "Select the size of the separator."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/separator/options.php:13
+msgid "Small"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/separator/options.php:20
+msgid "Add a color code."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/separator/options.php:23
+msgid "Margin"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/separator/options.php:26
+msgid "Add the size of the margin (px)."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/spacer/config.php:8
+msgid "Spacer"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/spacer/config.php:9
+msgid "Add a Spacer"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/spacer/options.php:7
+msgid "Height"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/spacer/options.php:10
+msgid "Spacer`s height (px)."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/subtext/config.php:8
+msgid "Subtext"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/subtext/config.php:9
+msgid "Add a Subtext"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/subtext/options.php:24
+msgid "Text"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:45
+msgid "Edit"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:64
+msgid "table-builder option type must be inside the table shortcode"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:173
+msgid "Table Styling"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:174
+msgid "Choose the table styling options"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:176
+msgid "Use the table to display tabular data"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:196
+msgid "Default row"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:197
+msgid "Heading row"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:198
+msgid "Pricing row"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:199
+msgid "Button row"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:200
+msgid "Row switch"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:210
+msgid "Default column"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:211
+msgid "Description column"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:212
+msgid "Highlight column"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:213
+msgid "Center text column"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:250
+msgid "per month"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:262
+msgid "Add"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/widget-area/config.php:8
+msgid "Widget Area"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/widget-area/config.php:9
+msgid "Add a Widget Area"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/widget-area/options.php:5
+msgid "Sidebar"
+msgstr ""
